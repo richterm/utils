@@ -1,3 +1,3 @@
 var R = require("ramda");
 
-module.exportrs = R.flip(R.add);
+module.exports = R.flip(R.add);
