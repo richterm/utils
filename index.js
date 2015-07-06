@@ -3,5 +3,6 @@ module.exports = {
 	addBefore: require("./addBefore"),
 	evolveTmpl: require("./evolveTmpl"),
 	isNotEmpty: require("./isNotEmpty"),
-	removeUTMQueries: require("./removeUTMQueries")
+	removeUTMQueries: require("./removeUTMQueries"),
+	splitByCommaOrWS: require("./splitByCommaOrWS")
 };
