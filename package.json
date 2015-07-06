@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "URIjs": "^1.15.1",
-    "ramda": "^0.12.0"
+    "URIjs": "^1.15.1"
   },
   "repository": "richterm/utils",
   "devDependencies": {},
